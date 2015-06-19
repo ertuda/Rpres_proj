@@ -1,7 +1,7 @@
 Broad Prediction of MPG by Weight
 ========================================================
 author: Ertuda
-date: June 2015
+date: June, 2015
 
 Rationale of the Project
 ========================================================
